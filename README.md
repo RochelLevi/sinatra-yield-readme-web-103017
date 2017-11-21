@@ -38,7 +38,7 @@ Below is the HTML for a website that has a header and links to JavaScript files.
 </html>
 ```
 
-We want every page to have a `<head>` tag with links to Bootstrap's and our own CSS files. The body of our site contains the heading `I love cats` and a cat gif. At the bottom, we have our jQuery and Bootstrap links.
+We want  every page to have a `<head>` tag with links to Bootstrap's and our own CSS files. The body of our site contains the heading `I love cats` and a cat gif. At the bottom, we have our jQuery and Bootstrap links.
 
 Now, let's say we have an `index.erb` with the following code:
 
